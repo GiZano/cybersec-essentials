@@ -1,5 +1,5 @@
 """
-Problem: Web 04: HTTP: The 'Accept' header
+Problem: Web 04: HTTP: The 'Accept' Header
 
 Category: Web Security
 

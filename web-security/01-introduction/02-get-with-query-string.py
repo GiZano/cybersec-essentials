@@ -1,5 +1,5 @@
 """
-Problem: Web 02 - HTTP: GET request with query string
+Problem: Web 02 - HTTP: GET Request with Query String
 
 Category: Web Security
 

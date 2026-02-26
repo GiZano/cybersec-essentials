@@ -1,5 +1,5 @@
 """
-Problem: Web 05 - HTTP: Manual cookies
+Problem: Web 05 - HTTP: Manual Cookies
 
 Category: Web Security
 

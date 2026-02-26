@@ -1,5 +1,5 @@
 """
-Problem: Web 03 - HTTP: GET with manual header
+Problem: Web 03 - HTTP: GET with Manual Header
 
 Category: Web Security
 

@@ -1,5 +1,5 @@
 """
-Problem: Web 01 - HTTP: a simple GET requests
+Problem: Web 01 - HTTP: a Simple GET Request
 
 Category: Web Security
 
