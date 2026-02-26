@@ -6,9 +6,9 @@ Category: Web Security
 Description: Get flag from http endpoint by specifying the attribute "id" as "flag"
 
 Algorith:
-- define payload (id = 'flag')
-- get http response
-- show flag with .text
+- Define payload (id = 'flag')
+- Get http response
+- Show flag with .text
 
 """
 

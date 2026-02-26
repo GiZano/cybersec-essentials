@@ -6,8 +6,8 @@ Category: Web Security
 Description: Use the requests library to get the flag inside an http endpoint
 
 Algorith:
-- get response with requests.get
-- print by using .text value of response
+- Get response with requests.get
+- Print by using .text value of response
 
 """
 
