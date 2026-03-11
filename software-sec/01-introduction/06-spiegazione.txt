@@ -1,0 +1,12 @@
+"""
+Problem: Crypto 06 - One More Time Please
+
+Category: Cryptography
+
+Description: Use tools to decode the Vernam Cipher
+
+Algorith:
+- Install the MTP tool
+- Use it to decode the given text
+
+"""
