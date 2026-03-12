@@ -1,9 +1,7 @@
 """
 TOOL: Simple Web Spider
 
-Problem: Web Technologies - Simple Spider
 Category: Web Security
-
 Description: Visit all pages of a site using a spider to navigate through all anchors to find the flag.
 Optimized with requests.Session() for maximum speed during CTFs.
 

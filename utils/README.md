@@ -9,3 +9,5 @@ Here are the universal and interactive scripts, ready to be executed during CTF 
 * [🧮 Modular Arithmetic Toolkit](mod_math_tool.py) - Interactive CLI to calculate the Extended Euclidean Algorithm (EGCD) and Modular Multiplicative Inverse. (Crucial for RSA!).
 * [💥 Single-Byte XOR Brute-Forcer](xor_bruteforce.py) - Script that tests all 256 possible keys against a ciphertext, extracting only human-readable text (UTF-8 safe).
 * [🔄 Universal Decoder (Base64/Hex/BigInt)](decoder.py) - Ready-to-use snippets for fast conversions between bytes, hexadecimal, Base64, and giant integers (Big Endian).
+* [🧮 Chinese Remainder Theorem (CRT) Calculator](crt_tool.py)
+Solve a system of modular equations where all moduli are pairwise coprime.
